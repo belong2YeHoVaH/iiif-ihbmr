@@ -1,0 +1,75 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://belong2YeHoVaH.github.io/iiif-ihbmr/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://0364c7af-891d-4168-a91e-31ba7a8df99e",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://8b889f17-6ba9-4ab2-9c7c-2c58a12342fd",
+      "@type" : "sc:Canvas",
+      "label" : "Sassoon1053-001_Genesis_11_2-31",
+      "height" : 8344,
+      "width" : 7259,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0eb5a4bd-4cbe-46c6-a772-b63fe3abc09d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://belong2yehovah.github.io/iiif-ihbmr/images/001_Genesis_11_2-31/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://belong2yehovah.github.io/iiif-ihbmr/images/001_Genesis_11_2-31",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 8344,
+          "width" : 7259
+        },
+        "on" : "http://8b889f17-6ba9-4ab2-9c7c-2c58a12342fd"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://786e3dce-efd9-47c9-be76-2d7ad2713813",
+      "@type" : "sc:Canvas",
+      "label" : "sassoon-002_Genesis_11_31-13_5",
+      "height" : 8587,
+      "width" : 7400,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9d2f5ec0-8794-4032-b228-4a69e2768f02",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://belong2yehovah.github.io/iiif-ihbmr/images/002_Genesis_11_31-13_5/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://belong2yehovah.github.io/iiif-ihbmr/images/002_Genesis_11_31-13_5",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 8587,
+          "width" : 7400
+        },
+        "on" : "http://786e3dce-efd9-47c9-be76-2d7ad2713813"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
