@@ -1,0 +1,13 @@
+{
+  "id" : "https://belong2YeHoVaH.github.io/iiif-ihbmr/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in belong2YeHoVaH/iiif-ihbmr project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://belong2YeHoVaH.github.io/iiif-ihbmr/manifests/manifest.json",
+    "label" : "[Click to edit label]"
+  } ]
+}
