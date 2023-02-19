@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 7400,
+    "id" : "https://belong2YeHoVaH.github.io/iiif-ihbmr/images/002_Genesis_11_31-13_5/canvas/",
+    "label" : {
+      "none" : [ "002_Genesis_11_31-13_5" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://belong2YeHoVaH.github.io/iiif-ihbmr/images/002_Genesis_11_31-13_5/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://belong2YeHoVaH.github.io/iiif-ihbmr/images/002_Genesis_11_31-13_5/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 232,
+              "height" : 269
+            }, {
+              "width" : 463,
+              "height" : 537
+            }, {
+              "width" : 925,
+              "height" : 1074
+            }, {
+              "width" : 1850,
+              "height" : 2147
+            }, {
+              "width" : 3700,
+              "height" : 4294
+            }, {
+              "width" : 7400,
+              "height" : 8587
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 7400,
+            "@id" : "https://belong2YeHoVaH.github.io/iiif-ihbmr/images/002_Genesis_11_31-13_5",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 8587
+          } ],
+          "format" : "image/jpeg",
+          "width" : 7400,
+          "id" : "https://belong2YeHoVaH.github.io/iiif-ihbmr/images/002_Genesis_11_31-13_5/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 8587
+        },
+        "target" : "https://belong2YeHoVaH.github.io/iiif-ihbmr/images/002_Genesis_11_31-13_5/canvas/"
+      } ]
+    } ],
+    "height" : 8587
+  }, {
     "width" : 7259,
     "id" : "https://belong2YeHoVaH.github.io/iiif-ihbmr/images/001_Genesis_11_2-31/canvas/",
     "label" : {
