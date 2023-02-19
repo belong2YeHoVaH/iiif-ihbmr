@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 227,
+    "height" : 261
+  }, {
+    "width" : 454,
+    "height" : 522
+  }, {
+    "width" : 908,
+    "height" : 1043
+  }, {
+    "width" : 1815,
+    "height" : 2086
+  }, {
+    "width" : 3630,
+    "height" : 4172
+  }, {
+    "width" : 7259,
+    "height" : 8344
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 7259,
+  "@id" : "https://belong2YeHoVaH.github.io/iiif-ihbmr/images/001_Genesis_11_2-31",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 8344
+}
